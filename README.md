@@ -8,7 +8,7 @@
 
 <!-- display the social media buttons in your README -->
 
-[![alt text][1.1]][1]
+[![alt text][1.2]][1]
 
 
 
