@@ -1,5 +1,7 @@
-### Hi there 👋
-
+#### Hello visitor...😄
+###### **About me!!!**
+#### ***Computer Engineering Undergrad at IIIT, Bhubaneshwar***
+#### ***Beginner and an enthuast to Data Science And Machine Learning***
 <!--
 **aryan7781/aryan7781** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
