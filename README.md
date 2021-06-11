@@ -9,7 +9,12 @@
 	Computer Engineering Undergrad at IIIT, Bhubaneshwar
 	Beginner and an enthuast to Data Science And Machine Learning
 	
-## **Works:**
-	I'm currently working with different linear regression models from Scikit-learn library.
-	Housing Prices Dataset in repo "Kaggle Datasets Projects" is what I'm working on.
-	Numpy, Pandas, Seaborn are the libraries I've been using for Data Pre-processing and Data Visualization.
+## **Skills**
+	Languages: C, C++ and Python
+	Python Libraries: Numpy, Pandas, Seaborn, Matplotlib, Scikit-learn
+	Sectors: Competitve Programming, Data Science and Machine Learning
+## **Current Project**
+
+	Dataset: Housing Prices Dataset from Kaggle
+	Model used: RidgeCV model from Linear Models in Scikit-learn library
+	Data preprocessing and Visualization tools: Pandas, Seaborn, Matplotlib
