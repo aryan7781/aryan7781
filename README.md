@@ -11,5 +11,5 @@
 	
 ## **Works:**
 	I'm currently working with different linear regression models from Scikit-learn library.
-	Housing Prices Dataset in repo "Kaggle Datasets Projects" is what I'm working with.
+	Housing Prices Dataset in repo "Kaggle Datasets Projects" is what I'm working on.
 	Numpy, Pandas, Seaborn are the libraries I've been using for Data Pre-processing and Data Visualization.
