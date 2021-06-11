@@ -14,7 +14,7 @@
 	Python Libraries: Numpy, Pandas, Seaborn, Matplotlib, Scikit-learn
 	Sectors: Competitve Programming, Data Science and Machine Learning
 ## **Current Project**
-
+	Repo: https://github.com/aryan7781/Kaggle-Datasets-Projects/tree/main/Housing_Prices
 	Dataset: Housing Prices Dataset from Kaggle
 	Model used: RidgeCV model from Linear Models in Scikit-learn library
 	Data preprocessing and Visualization tools: Pandas, Seaborn, Matplotlib
