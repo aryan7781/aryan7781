@@ -8,3 +8,7 @@
 ## **About me!!!**
 	Computer Engineering Undergrad at IIIT, Bhubaneshwar
 	Beginner and an enthuast to Data Science And Machine Learning
+	
+## **Works:**
+	I'm currently working with different linear regression models from Scikit-learn on Housing Prices Dataset in repo "Kaggle Datasets Projects".
+	Numpy, Pandas, Seaborn are the libraries I've been using for Data Pre-processing and Data Visualization.
