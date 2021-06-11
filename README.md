@@ -10,5 +10,6 @@
 	Beginner and an enthuast to Data Science And Machine Learning
 	
 ## **Works:**
-	I'm currently working with different linear regression models from Scikit-learn on Housing Prices Dataset in repo "Kaggle Datasets Projects".
+	I'm currently working with different linear regression models from Scikit-learn library.
+	Housing Prices Dataset in repo "Kaggle Datasets Projects" is what I'm working with.
 	Numpy, Pandas, Seaborn are the libraries I've been using for Data Pre-processing and Data Visualization.
