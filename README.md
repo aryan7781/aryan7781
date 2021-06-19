@@ -7,7 +7,7 @@
 [![Tumblr](https://img.shields.io/badge/-Tumblr-330c83?style=flat&logo=Tumblr&logoColor=white)](https://www.tumblr.com/blog/datascienceparadise)
 ## **About me!!!**
 	Computer Engineering Undergrad at IIIT, Bhubaneshwar
-	Beginner and an enthuast to Data Science And Machine Learning
+	Machine Learning And Deep Learning novice
 	
 ## **Skills**
 	Languages: C, C++ and Python
