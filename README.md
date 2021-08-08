@@ -11,6 +11,6 @@
 	
 ## **Skills**
 	Languages: C, C++ and Python
-	Python Libraries: Numpy, Pandas, Seaborn, Matplotlib, Scikit-learn
+	Libraries familiar with: Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Tensorflow and Keras
 	Sectors: Competitve Programming, Data Science and Machine Learning
 
