@@ -4,7 +4,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-330c83?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/aryansinha7781)
 [![Instagram](https://img.shields.io/badge/-Instagram-330c83?style=flat&labelColor=330c83&logo=instagram&logoColor=white)](https://www.instagram.com/_.aryan.sinha._/)
 [![Gmail](https://img.shields.io/badge/-Gmail-330c83?style=flat&logo=Gmail&logoColor=white)](mailto:aryansinhagya05@gmail.com)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-blue)](https://www.kaggle.com/aryan7781)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-330c83?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/aryan7781)
 ## **About me!!!**
 	Computer Engineering Undergrad at IIIT, Bhubaneshwar
 	Machine Learning And Deep Learning novice
