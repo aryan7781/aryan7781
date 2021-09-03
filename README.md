@@ -15,8 +15,8 @@
 	Sectors: Competitve Programming, Data Science and Machine Learning
  -->
  
- <h1 align="center">Hi 👋, I'm Aryan Sinha</h1>
-<h3 align="center">Machine Learning and Deep Learning Novice</h3>
+ <h1 align="left">Hi 👋, I'm Aryan Sinha</h1>
+<h3 align="left">Machine Learning and Deep Learning Novice</h3>
 
 - 🔭 I’m currently working on [Fish Image Segmentation](https://github.com/aryan7781/Fish-Image-Segmentation)
 
