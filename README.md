@@ -19,6 +19,7 @@
 <h3 align="left">Machine Learning and Deep Learning Novice</h3>
 
 - 🔭 I’m currently working on [Fish Image Segmentation](https://github.com/aryan7781/Fish-Image-Segmentation)
+- 🔭 I've also started trying out NLP.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
