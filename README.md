@@ -33,9 +33,11 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=aryan7781.aryan7781)   <br/> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan7781&show_icons=true&locale=en&layout=compact" alt="aryan7781" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryan7781&show_icons=true&locale=en" alt="aryan7781" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan7781&show_icons=true&locale=en&layout=compact" alt="aryan7781" /></p>
 
-                                                                                                                          
+<br>
+
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=aryan7781&bg_color=000000&color=0538FB&line=0507FB&area_color=7DCDFB&point=7DCDFB&hide_border=true&area=true)
