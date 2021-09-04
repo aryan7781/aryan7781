@@ -18,7 +18,7 @@
  <h1 align="left">Hi 👋, I'm Aryan Sinha</h1>
 <h3 align="left">Machine Learning and Deep Learning Novice</h3>
 
-- 🔭 I’m currently working on [Fish Image Segmentation](https://github.com/aryan7781/Fish-Image-Segmentation)
+- 🔭 My latest project was an Image segmentation applied on [Large Scale Fish Dataset](https://www.kaggle.com/aryan7781/transfer-model-vgg-16) on kaggle
 - 🔭 I've also started trying out NLP.
 
 <h3 align="left">Connect with me:</h3>
