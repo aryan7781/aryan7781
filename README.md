@@ -19,7 +19,7 @@
 <h3 align="left">Machine Learning and Deep Learning Novice</h3>
 
 - 🔭 My latest project was an Image segmentation applied on [Large Scale Fish Dataset](https://www.kaggle.com/aryan7781/transfer-model-vgg-16) on kaggle
-- 🔭 I've also started trying out NLP.
+- 🔭 I've also started trying out Object Localization and Detection.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
