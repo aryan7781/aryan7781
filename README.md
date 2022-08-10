@@ -18,7 +18,10 @@
  <h1 align="left">Hi 👋, I'm Aryan Sinha</h1>
 <h3 align="left">Machine Learning and Deep Learning Novice</h3>
 
-- 🔭 Trying out Computer Vision...
+- 🔭 Previously Worked on different Image and Text Datasets for regression/classification tasks.
+- 🔭 Familiar with Neural Network Layers like Convolutions, GRUs, LSTMs, MultiheadAttention, etc.
+- 🔭 Implemented classifiers based on Neural Network Architectures like VGG16, ResNet50, Transformers from scratch.  
+- 🔭 Currently working on Generating Anime faces using Generative Adversial Networks.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
